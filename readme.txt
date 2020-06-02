@@ -31,9 +31,6 @@ Javascript Files:
  - Code Prettify (https://github.com/google/code-prettify)
  - Lity (https://sorgalla.com/lity/)
 
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
+--------------------------------------------------------------------------------------------------
 
 
